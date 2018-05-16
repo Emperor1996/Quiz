@@ -36,6 +36,8 @@ namespace Quiz
             answers[3] = quest4;
             answers[4] = quest5;
 
+            // sprawdzam czy działa, bo czemu nie
+
             trueAnswers[0] = true1;
             trueAnswers[1] = true2;
             trueAnswers[2] = true3;
